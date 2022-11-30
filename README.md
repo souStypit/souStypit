@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi, I'm Ilya Savenkov @souStypit</h1>
 
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souStypit&hide=asp%2Enet&theme=radical">
+</p>
 
-<img src="https://www.codewars.com/users/souStypit/badges/large)](https://www.codewars.com/users/souStypit">
+<p align="center">
+<img src="https://www.codewars.com/users/souStypit/badges/large">
+</p>
