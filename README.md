@@ -4,6 +4,8 @@
 
 <hr>
 
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souStypit&hide=asp%2Enet)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 [![codewars](https://www.codewars.com/users/souStypit/badges/large)](https://www.codewars.com/users/souStypit) 
