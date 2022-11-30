@@ -4,4 +4,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+computer+science+student)](https://git.io/typing-svg)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+[(https://www.codewars.com/users/username)](https://www.codewars.com/users/souStypit/badges/large)
