@@ -4,4 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+computer+science+student)](https://git.io/typing-svg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souStypit)](https://github.com/anuraghazra/github-readme-stats)
+
 [![codewars](https://www.codewars.com/users/souStypit/badges/large)](https://www.codewars.com/users/souStypit) 
