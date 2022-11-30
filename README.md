@@ -8,8 +8,6 @@
 
 &nbsp;
 &nbsp;
-
-### HTML <(br)/> tag
 <br />
 <br />
 
