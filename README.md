@@ -2,7 +2,7 @@
 
 <h1 align="center" style="color: #2336BC;">Hi, my name is Ilya Savenkov @souStypit</a></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+computer+science+3rd+year+student)](https://git.io/typing-svg)
+/*[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+computer+science+3rd+year+student)](https://git.io/typing-svg)*/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souStypit&hide=asp%2Enet)](https://github.com/anuraghazra/github-readme-stats)
 
