@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souStypit&hide=asp%2Enet&theme=radical">
 </p>
-<p></p>
+<p> </p>
 <p align="center">
 <img src="https://www.codewars.com/users/souStypit/badges/large">
 </p>
