@@ -2,9 +2,8 @@
 
 <h1 align="center">Hi, I'm Ilya Savenkov @souStypit</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souStypit&hide=asp%2Enet)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souStypit&hide=asp%2Enet&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+<hr>
 
 [![codewars](https://www.codewars.com/users/souStypit/badges/large)](https://www.codewars.com/users/souStypit) 
